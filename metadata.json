@@ -1,0 +1,6 @@
+{
+  "name": "Dopamine Buddies - Scrapbook Kenangan AMA 5",
+  "description": "Scrapbook album kenangan interaktif berbalut estetika vintage untuk Dopamine Team AwareMind Indonesia AMA Batch 5 dengan musik latar lembut dan animasi buka halaman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
